@@ -7,6 +7,6 @@
 </head>
 <body>
 <h1>Nosso blog de culinaria entre amigos </h1>
-<p>Vamos compartilhar nossas receitas favoritas em posts interessantes e divertidos.</p>
+<p>Vamos compartilhar nossas receitas favoritas em posts interessantes e divertidos..</p>
 </body>
 </html>
